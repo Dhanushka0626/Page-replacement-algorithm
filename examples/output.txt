@@ -1,0 +1,7 @@
+Input:
+Pages: 7 0 1 2 0 3 0 4
+Frames: 3
+
+Output:
+FIFO Page Faults: 10
+LRU Page Faults: 9
