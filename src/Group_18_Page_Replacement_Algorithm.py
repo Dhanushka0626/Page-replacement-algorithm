@@ -1,7 +1,7 @@
 # Page Replacement Algorithm 
 
 # GROUP 18
-# 2022/E/122 - RATHNAYAKA P.G.R.M.D.R.
+# 2022/E/122 - RATHNAYAKE R.G.R.M.D.R.
 # 2022/E/180 - PRASANJANA W.T.
 
 
